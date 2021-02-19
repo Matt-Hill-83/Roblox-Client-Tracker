@@ -542,6 +542,7 @@ AllocateMemory
 AllocateMemoryNV
 Allocation
 AllocationOption
+AllocationsPerSecondCollection
 AllowAnyChildrenOfRSS
 AllowAudioBulkImport
 AllowBinding
@@ -4734,6 +4735,7 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBB
 BBCA91111E2B410EF351327957B
 BbEcJYG[I[NYVP\B]
 BBFA91111E2B410EF351327957B
+Bbxp8gGo4pytDZ8O5KECYJLk5NwtBzVP7KGwYa
 BBxZ55ZxBBx[5D
 BC0A91111E2B410EF351327957B
 BC0DAEAAF011E38B9D871882A8E559
@@ -5256,7 +5258,7 @@ BytesReceived
 BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
-ByVersion_0.467.0.418182
+ByVersion_0.468.100.4680005
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -8953,7 +8955,6 @@ DistributionPoint
 DistributionPoints
 DistToShowBufferCountSqr
 DKECCAK1600_ASM
-DKnehiiiHNMCAwEAAQ
 DlcVersion
 DListenerAttributes
 DMinMaxDistance
@@ -9213,7 +9214,6 @@ DurationReceiveResponse
 DurationSSLHandshake
 DurationWidth
 Durbanville1
-DuTYAt19ocyy50kzzJiBW7XxCjm5c1nYWCnVjSqtzt0962
 DVCSRequestData
 DVCSResponseData
 DVPAES_ASM
@@ -9533,9 +9533,9 @@ EffectiveRetryCount
 EFrontVector
 Egravesmall
 EHERE\EfEpEzE
-EI5fB7eJnF19chUOti6
 EJJJJJJJJJJJJJJJJJJJJ
 EJTU\^bcfguw
+EkQTWhEoLNpBxMDVIts
 ElapsedSeconds
 ElapsedTime
 ElasticBehavior
@@ -9903,6 +9903,7 @@ EphemeralCounterWhitelist.json
 EphemeralStatsInfluxReportingEnabled
 EphemeralStatsInfluxReportingPriorityHundredthsPercent
 EphemeralStatsInfluxReportingThrottleHundredthsPercent
+EQPHZlMEDiQ0coBwV
 EqualizerSoundEffect
 EquippedEmotes
 EquippedEmotesChanged
@@ -9947,6 +9948,7 @@ ErrorUploadToBacktraceBaseUrl
 ErrorUploadToBacktraceLuaAppToken
 ErrorWindow
 ErrOutOfRetries
+Es3TpqB5VMZavg2T9Yxeohwvfv6pkaPfrHis7W
 ESDHwith3DES
 ESDHwithRC2
 ESGamePerfMonitor
@@ -9959,6 +9961,7 @@ ESGamePerfMonitorUseRandomSelection
 Estrangelo
 ETCEffortLevel
 EThrottleType
+ETj9ItruJOrqyXtZWDQ4UdOhiR9E2M2UqHgAloaLHgPJ
 EucrosiaUPC
 EulerAnglesXYZ
 EulerAnglesYXZ
@@ -10225,7 +10228,6 @@ FacesPropertyItem
 FacingCamera
 FacingCameraWorldUp
 FactoryForImage
-FAFoKXLgX5BnTiSLqaKV2V2AzMTBxFrwrNJTxea2agEucF11
 FAILED_TO_CREATE_NETWORK_THREAD
 FailedResource
 FailedToArchiveDumpFile
@@ -10936,6 +10938,7 @@ Frames[i].framestart
 Frames[i].framestartgpu
 Frames[i].LogEnd
 Frames[i].LogStart
+Frames[i].paused
 Frames[Index].frameend
 Frames[Index].framestart
 Frames[nFrameFirst].framestart
@@ -11064,7 +11067,6 @@ FXCompositing
 FXCompositingFS
 FXCompositingLinearFS
 FXComposition
-FXOUV4d1gczzxx560sU4rCSCacKEfMJik3mdw4xWlcodMeep3fCX1G39S7NBz9mw
 GainMakeup
 GameAbsenceInWeb.
 GameAction
@@ -12039,6 +12041,7 @@ GImpactCompound
 GImpactCompoundShape
 GiveFocusBackAfterClickingTextbox
 GizmoRaycast
+GKaQuKRdZZmp04IB
 GL_ARB_copy_image
 GL_ARB_pixel_buffer_object
 GL_ARB_texture_storage
@@ -12468,6 +12471,7 @@ HelpForSelectionAction
 HelpPageLink
 HelpWindow
 HelpWindow.style[
+HH16X9iHGnArTTzwf9UMmIh5Nvq13Kvz
 HHAEBVQModelIndex
 HHHHHAEBVQString
 HHPEAVQObject
@@ -13742,7 +13746,6 @@ JavaScript
 JavaScriptCallback
 Jba5qWkYU5nARYZm1gQVP
 Jcircumflex
-Jd1VsvlDd4sOMpT3Pe2CNj82xN
 JDIv2PacketBoundsCheck
 JDJNJXJbJlJvJ
 JHJRJ\JfJpJxJ
@@ -13854,6 +13857,7 @@ K\7IxU..UxI7\K
 K_Key_dn.png
 KaiTi_GB2312
 KBytesPerSec
+KcbZJ4QUiDIwGLY8OMQmeY98Pbf6
 KeepAliveTimeout
 KeepPositionOnInsert
 KERNEL32.dll
@@ -13920,6 +13924,7 @@ KnownPublishRequest
 KodchiangUPC
 KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
+Kv9F2DkNAed4mKcJIZ1hWYH1y3NLeAa
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
 LabelArray
@@ -14284,6 +14289,7 @@ LiveThreadRef
 LivingRoom
 LLEo6Soxvx2
 LLLLLLLLLLLLLLLL]]]]]]]]]]]]]]]]]]]]
+LLoEHslEz9DsfDs0Fnn0
 LmsClient]
 LmsClientAppReportPeriodSeconds
 LmsClientMaxTargets
@@ -14737,6 +14743,7 @@ LuobuModerationStatusAvailable
 LuobuWhitelisted
 LuobuWhitelistedAllow
 LuobuWhitelistedField
+LusppbZKMFFUwABf6ZEJf4rbrkXbJ7jdtyc74f4Wp52EAHRu7nXBs2LUhg7kwTfM
 LVvuOx39]O
 M_NVWeakFunctionRef
 MacGamepadUseGCController
@@ -15423,6 +15430,7 @@ MicroProfileFlip
 MicroProfileGpuGetTimeStampD3D11
 MicroprofileGroupAtLastStack
 MicroprofileJoinCounts
+MicroprofilerBufferOverflow
 MicroProfilerSessionAnalytics
 MicroprofilerShortcutPressed
 MicroProfilerWebServerEnabled
@@ -15439,7 +15447,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAzJoOtMJW38hessUTrHLkg4IJb7RfUCcDf717YVeMCjCSfneayTUU
+MIICCgKCAgEApU0Fs1dTaSznWvJAvkDyqrAfuOMBSml
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -15485,9 +15493,11 @@ Mismatched
 MissingAppCoreScriptsInStudio
 MissingCoreScript
 MissingDumpFile
+MmgJir9YG6rzqkajFyGRfyDCE0oDnGsmhpsmuFilvpnVutDeDfa21ZIUcAUr0x
 MMW4IkDragCollisionsMode
 MMW4PartMaterial
 MMW4UserInputState
+Mo8YqAjDEhC
 MobileWebsite
 MockAndroidBackButtonPressed
 MockGestureGenerator
@@ -16257,8 +16267,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NwbEcCck7rUFwt7n7WlsYKa0CacyOS1HqdJjniN
-NWDXeesYJfVuPtkOlU
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -16385,7 +16393,6 @@ OfTopLevelItem
 OfTruthFilterItemFound
 OfTruthFindItemFound
 OfUnsplitMessages
-OFzzTBtACJPyH1SF3qKdAa5S
 Ogoneksmall
 Ogravesmall
 OGRE_VIEW_UPDATE
@@ -18294,6 +18301,8 @@ PluginWidgetRelayForPluginGui
 PluginWithInstancesAsChildren
 PluginWriteTemp
 PlusButtonPressed
+Pmmsa8uqOVSXcu
+PnkLT0lM62HPzsz
 POINT_SIZE
 PointBalanceCacheInvalidateTimeMs
 PointDataChanged
@@ -18400,7 +18409,7 @@ PostUserAgreementsAcceptanceSuccess
 Potentially
 PotentialShadowCasters
 POWRPROF.dll
-PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
 PpjCapacity
 PpjClientBreak
 PpjEtrFill
@@ -19239,7 +19248,6 @@ QGuiApplication
 QHBoxLayout
 QHeaderView
 QHoverEvent
-QI1njhImNDornsao6ppOLGH
 QImageReader
 QInputDialog
 QInputMethodEvent
@@ -21043,10 +21051,10 @@ RowsToRemove
 RowStretch
 RowVisibilityChanged
 RPCServers
-RPZrufpsck1
 RRReceiptFail
 RRReceiptTotal
 RRRRRRRRzzzzzzzzzzzzzzzzzz
+RRSuWuEdqoKZZwm4zkC6BYl4cBxG53J8KqZ8P9EM
 RSA_check_key
 RSA_check_key_ex
 RSA_meth_dup
@@ -22061,6 +22069,7 @@ SetWindowLongPtrA
 SetWindowPos
 SetWindowsHookExA
 SetWindowTextA
+SFBnv7jaLTUkqTg9dDe
 ShaderSource
 ShadingLanguage
 Shadow.visible
@@ -25594,6 +25603,7 @@ StudioTreeWidgetEventProcessingTime
 StudioTreeWidgetFilterTime
 StudioTreeWidgetProcessingTime
 StudioTutorialIcon.png
+StudioUpdateBFReportingWithHash
 StudioUpdateSpamDelayMs
 StudioUpdateSpamIntervalMs
 StudioUpgradedCounter
@@ -27273,6 +27283,7 @@ Uambiguous_result
 Uasio_client
 Uasio_tls_client
 UAssetLoadingData
+UASUCAwEAAQ
 UAsyncFindReplaceData
 UATAUAVAWH
 UATAUAVAWI
@@ -27768,6 +27779,7 @@ UpdateSize
 UpdateSkinnedMeshMeshId
 UpdateSpamCountdown
 UpdateSpamTimer
+UpdateSpecularMapFallback
 UpdateStatusBar
 UpdateStatusChanged
 UpdateStudioOpenBFReporting
@@ -27855,7 +27867,6 @@ USATAUAVAW
 USATAUAVAWH
 USATAUAVAWL
 USATAUAVAWWH
-UsbDbg0GDU0aLOP9AmqXu
 UScriptContentQuickOpenProviderSharedState
 UScriptPerformanceViewData
 UseAccuratePlaySoloForced
@@ -29026,7 +29037,6 @@ VNotificationService
 VNumberRange
 VNumberSequence
 VNumberSequenceKeypoint
-VnuPZk2bgnFpkvEcVlYxqoO0Jy9VVIIDrF0OAgKd6KMTgqEsM5D2vRo
 Voauth2_handler
 VObjectValue
 VObjectVersionInfo
@@ -29787,12 +29797,12 @@ WithSHA224
 WithSHA256
 WithSHA384
 WithSHA512
+WjG2bLHMu9ORh2TnliVPK
 WM_ATLGETCONTROL
 WM_ATLGETHOST
 WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
-WNjxMPp2ARTsCfU
 WoodPlanks
 WordBackward
 WorkersNeeded
@@ -29906,6 +29916,7 @@ XAEBVQString
 XAEBVvalue
 XAEBVwebsocket_incoming_message
 XAlignment
+XAsVRB1GqgTCg
 Xbad_alloc
 Xbad_function_call
 XbbXXbbXGSSGGSS
@@ -30087,7 +30098,6 @@ YAPEAVQObject
 YAPEAVsgCGroup
 YAPEAVsgCObject
 YAPEBXPEBVsgCObject
-YAVTwBwOORqD0h8C6qIaMsx1xE
 YAXAEBVerror_code
 YAXP6APEAX_K
 YAXP6APEAX_K0
@@ -30102,7 +30112,6 @@ YAXW4error_type
 Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
-Ye3f5CwqWxEpzXj8jPTd2M9fKnZjzE1E
 YffYZefYDNNDCOO
 YieldEvent
 YieldFuncDesc
