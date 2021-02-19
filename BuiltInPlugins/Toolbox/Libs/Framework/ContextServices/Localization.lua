@@ -56,7 +56,6 @@
 ]]
 
 game:DefineFastFlag("FixStudioLocalizationLocaleId", false)
-local FFlagDevFrameworkFilterTranslationErrors = game:DefineFastFlag("DevFrameworkFilterTranslationErrors", false)
 
 -- services
 local LocalizationService = game:GetService("LocalizationService")
@@ -247,11 +246,9 @@ function Localization:getProjectText(project, scope, key, args)
 		end
 	end
 	
-	if FFlagDevFrameworkFilterTranslationErrors then
-		if self.keyPluginName ~= MOCK_PLUGIN_NAME and not success and not string.find(translated, "LocalizationTable or parent tables do not contain a translation") then
-			-- TODO DEVTOOLS-4532: Use logger contextItem for this
-			warn(translated, debug.traceback())
-		end
+	if self.keyPluginName ~= MOCK_PLUGIN_NAME and not success and not string.find(translated, "LocalizationTable or parent tables do not contain a translation") then
+		-- TODO DEVTOOLS-4532: Use logger contextItem for this
+		warn(translated, debug.traceback())
 	end
 
 	-- Fall back to the given key if there is no translation for this value
