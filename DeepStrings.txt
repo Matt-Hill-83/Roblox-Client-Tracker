@@ -967,7 +967,6 @@ AppVersion
 APSToggleClientServerFTUE
 AQJsonArray
 AQJsonObject
-AQqjhAMjw7sNYqy
 ArcadeStick
 ArcHandles
 Archivable
@@ -1442,7 +1441,6 @@ AURobloxSuggestExtraSelectionsResponse
 AURobloxSyntaxHighlightNotification
 AURobloxTabBar
 AURobloxTabWidget
-AUScgEYqDcSBc
 AUscheduler_interface
 AUScriptPerformanceViewData
 AUSequentialTaskDispatcher
@@ -2994,7 +2992,6 @@ AVKeyframeSequenceProvider
 AVKeyPressFinishedEvent
 AVKeySequenceEdit
 AVKeyValueTypeError
-AvKyMsFybUpqwOf0d5ZH
 AVLanguageClientBase
 AVLanguagePropertyItem
 AVLanguageServerBase
@@ -5259,7 +5256,7 @@ BytesReceived
 BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
-ByVersion_0.468.100.4680019
+ByVersion_0.468.100.4680027
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -6430,6 +6427,7 @@ CmdUpdateBuffer
 CmdWaitEvents
 CmdWriteBufferMarkerAMD
 CmdWriteTimestamp
+CMro4a2sM0mif
 CMS_add0_cert
 CMS_add0_recipient_key
 CMS_add0_recipient_password
@@ -9188,7 +9186,6 @@ DSO_up_ref
 Dst.Thread
 Dst.YBegin
 DSVideoCaptureEngine
-DTDd1eaQYJXstBwtulaIINYuDkILoZQcvm1U4
 DTLS_RECORD_LAYER_new
 DTLSv1_listen
 DumpAction
@@ -9355,6 +9352,7 @@ EBAPEAVTeam
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
+EBEQgqv9DCZlr3pPceQW8E2MqcQv49M
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -9708,7 +9706,7 @@ EnableLoadModule
 EnableLowerFrequencyWorldSteps
 EnableLuaApiToRegisterEncryptedAssets
 EnableLuaAppLoginPageForUniversalAppDev
-EnableLuaAudioDeviceSelection
+EnableLuaAudioDeviceSelection2
 EnableLuaChatDiscussions
 EnableLuaEventStreamRelease
 EnableMeshPartHeadsApp
@@ -9960,7 +9958,6 @@ ESGamePerfMonitorReportTimerInSeconds
 ESGamePerfMonitorUseRandomSelection
 Estrangelo
 ETCEffortLevel
-ETFGD0dStHq01ijB9bACqj7Cw
 EThrottleType
 EucrosiaUPC
 EulerAnglesXYZ
@@ -12031,6 +12028,7 @@ GfxClustersFull
 GfxClustersFull]
 GfxGuiRefactor
 GfxPartInvalidationBudgetMs
+GgDfcfjUfe
 GGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
@@ -12114,6 +12112,7 @@ GoToPreviousScriptLocation
 GoToScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
+GOvcqXQae7rvwjg1UVJ6OgenygO8j9PNIyGzarBVvk0tkq5VozQaX6IZkJ5
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -12424,7 +12423,6 @@ HBAODepthDownFS
 HbaoRenderCompute
 Hbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
 Hcircumflex
-Hd440xtgxqD
 HDCacheLock
 HeadColor3
 HeaderCheckBoxClicked
@@ -12606,6 +12604,7 @@ HPEBDPEBDV
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HtmlEscaped
+HTMP5IkFOQs6xc0q4Pd59p34MiyKxjcaN
 Http_Failed
 HTTP429Failure
 HTTP503Failure
@@ -12886,7 +12885,6 @@ HW4MatchType
 HW4Orientation
 HW4PacketPriority
 HW4TransformationMode
-HWNBYrUCAwEAAQ
 HwngSmldAskhBcraMaweNegsOgnaT
 HwngSmldAskhBcraMegsOgnaTaweNmnoGuhsNoyoSbnaZrgoDgnoGghoRakaMfdeMogoSdgoSmylEdnaNpnmHohcWsrhCkaiDstiKizeY
 HWYGOTH.ttf
@@ -12961,6 +12959,7 @@ IEBAPEAVQTreeWidgetItem
 IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 IEBAXPEAVQStyleOptionTab
+IEFjYiQ2a8nCcmqC395KxS13f9g0oc8p2ZfFJmi0eOTgObiz
 Ierusalimschy
 IFindListener
 IfLastDocInLastAppInstance
@@ -12968,12 +12967,12 @@ IfLineOfSightClear
 IfPurchased
 IfUserHasDMPackagelinkPermission
 IGameIconsStore
+IgnoreEditorOnlyPropertyChangesOutsideStudio
 IgnoreGuiInset
 IgnoreIA5StringSyntax
 IgnoreLocaleInJoinScriptData
 IgnoreWater
 Igravesmall
-IhjewFoFdS15IPG3rFRU
 IID_IAMDirectSound
 IID_IAMLine21Decoder
 IID_IAMWstDecoder
@@ -13625,7 +13624,6 @@ IsRegion3Empty
 IsRegion3EmptyWithIgnoreList
 IsRenderbuffer
 IsRobloxPlace
-ISrW8HaoXBFFdSSB8448wgbg9R4
 IsScriptAssetUploadEnabled
 IsScriptStackTracingEnabled
 IsSelected
@@ -13710,7 +13708,6 @@ ItemWasSet
 ItemWidget
 Iterations
 ITRedirect
-ItSdDPb1AU8x0Yn7TMCr3NVkAw4zcMkw8K14omABoHiBkQ9ksxKGuTNs
 IUniverseController
 IUpdateUIManager
 IUserDataStoreServiceBase
@@ -13741,6 +13738,7 @@ IXPService]
 IXPSystemShutoff
 IXPTestBrowserTrackerLayerName
 IXPTestUserLayerName
+IxYQ5NthZGDZdpL
 J_J_JAEBVPackageHash
 J_Key_dn.png
 J_NW4CurrencyType
@@ -13920,7 +13918,6 @@ KillPtClicked
 KKKKKKKKKK
 KKKKKKKKKKKK
 KKKKKKKKKKKKKKKKKKKKKK
-KMZP4xnMNeCcUgWptloARBz
 KnownHeaders
 KnownPrefixIndex
 KnownPublishRequest
@@ -13929,7 +13926,6 @@ KPEAVICHull
 KPEIBX_K_KPEIAU_iobuf
 KVScriptContext
 KYULPhCBFoD3mw5mygYqAeFlHdSL2k3MnDG
-Kzra4lC5ToeWjD5qxZjMpS0Xn6tvMOsylLRfp
 LabelArray
 LabelArray.push
 LabelArray[globstart]
@@ -15449,7 +15445,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAvB
+MIICCgKCAgEAqQL
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -15758,6 +15754,7 @@ MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
+MSkWVRRP5Z6jtdiUdFLqBFHfiEnP5FjMBibud8XkXaFv7ZK4HG6wzCo11DjsqdNf
 MsToScreen
 MSVCP140.dll
 MSWSOCK.dll
@@ -15769,7 +15766,6 @@ Mtx_destroy_in_situ
 Mtx_init_in_situ
 Mtx_trylock
 Mtx_unlock
-MUf1pE73Dn9JNU32Sw
 MULE_BASELINE_OFFSET
 MULE_RELATIVE_COMPOSE
 MultiByteToWideChar
@@ -16113,7 +16109,6 @@ NfAddActSp
 NfAddActVs
 NfAddReport
 NfXf`fhfzf
-NgCBDGCvCtm8zEZ2u
 NHVVariant
 NinjaMask.mesh
 NNNNNNNNNNNNNNNNNNNNNN
@@ -16269,7 +16264,6 @@ NVWorkspace
 NW4FileSystemDir
 NW4PenStyle
 NW4UserInputType
-NWD6ODXkiEpLx4u0XobjW8e3U
 Oacutesmall
 OAEPEncryptionSET
 OAUTHBEARER
@@ -17994,7 +17988,6 @@ PKCS8PrivateKey_bio
 PKCS8PrivateKey_fp
 PKEY_CRYPTO
 PKEY_USAGE_PERIOD
-PkF0wUf9agpJ
 PKIMessage
 PKIResponse
 PL_TeleportBackoffBaseMs
@@ -18796,7 +18789,6 @@ QApplication
 QArrayData
 QAssociativeIterableImpl
 QAWNcgRdAzOKj8pi5wAlnsdoumgAtB1J7d
-QbhrEvtZnQJZHR2twevjIVmCNDy4hf30ag3Zu19fDkqBNsDdIFvUoiXcIBZoOzKJ
 QBoxLayout
 QButtonGroup
 QByteArray
@@ -20870,6 +20862,7 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
+RNjAWWZEWmEi
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -21095,6 +21088,7 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
+RskdEvoE20TUtrPotN4oci5vAIHcnS9
 RTDynamicCast
 RtlCaptureContext
 RtlCaptureStackBackTrace
@@ -22137,6 +22131,7 @@ ShareToTwitter
 SHCellMinSizeAsBitShift
 SHComputeExtentsTimeReportingAttemptRate
 SHComputeExtentsTimeReportingEnabled
+SHEhPo4jIO0qcjxMypg0rGZLkNi
 SHELL32.dll
 ShellClient
 ShellFeature
@@ -26812,7 +26807,6 @@ TlsGetValue
 TlsSetValue
 TlsVerificationFail
 Tmap_traits
-TmKZmH8YVtpgs8BCuI5PjTafEiEOij3WYuBfEI8EOXJ1rVkIbBoBXNsaVmT7Pyf
 TMxQPxAA13
 ToArtistIntentAssetMigratorEnabled
 ToastNotification
@@ -27873,6 +27867,7 @@ USATAUAVAW
 USATAUAVAWH
 USATAUAVAWL
 USATAUAVAWWH
+UscApQlmqowltqQjGcmjOHgzGWM
 UScriptContentQuickOpenProviderSharedState
 UScriptPerformanceViewData
 UseAccuratePlaySoloForced
@@ -29008,7 +29003,6 @@ VMessageStream
 VMessageStreamDecorator
 VMessagingService
 VMessagingServiceAnalysisJob
-Vmfb5XXaOvFNN31bEwgd6NZ3
 VMockGestureGenerator
 VMockMarketplaceApiClient
 VModelCompletenessJob
@@ -29508,8 +29502,10 @@ Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
 VXmlElement
+Vy21vh0tVDEL899kbSOzmWI3z5U300QlqSRCX6nsM9iHAuJH5efTkglhiKAlZz
 VYieldFunctions
 VYieldFunctionStateObject
+VymofrXpRArzVHXMz7CCJA4jZNE8SXYNyd4Oad5LQBxHv0CAwEAAQ
 W_Key_dn.png
 WaistAccessory
 WaistBack_Att
@@ -29942,6 +29938,7 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
+XhUWT6GneQuidNC5pJ1i37eOVOubTtvzYQrfQNVW8MByZqgyMf2VaJaMfiIIVZKP
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -29949,7 +29946,6 @@ XInputGetState
 XInputSetState
 Xinvalid_argument
 Xlength_error
-XmX5nrO9LbDUonSydKPAu7Kn2KpzAHpN39uxKVM4qiUBMt
 Xout_of_range
 XP6AXAEBUTextFilterResult
 XP6AXAEBVQString
@@ -29984,6 +29980,7 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
+XTtdyoIUJ1W3wDgUbOLNmWhwb
 XUCompletionList
 XUnegotiation_response
 XUNetworkResult
@@ -30119,8 +30116,6 @@ Ycircumflex
 Ydieresissmall
 YDYHYQYTYbYsY
 YffYZefYDNNDCOO
-YfKr8dJMISHDE
-YHLtXYMakj7Jpf
 YieldEvent
 YieldFuncDesc
 YieldFunction
@@ -30132,6 +30127,7 @@ Z_KPEIBX_K_KPEIAU1
 ZAEAPEAV34
 Zcaronsmall
 Zdotaccent
+ZESYWPWcm5mW2vVaPcHXdrtvEjEv
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
