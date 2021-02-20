@@ -5256,7 +5256,7 @@ BytesReceived
 BytesReceivedAndIgnoredPerSec
 BytesReceivedPerSec
 BytesRecvAndIgnored
-ByVersion_0.468.100.4680027
+ByVersion_0.468.100.4680041
 ByVersionForPlatform_
 C_specific_handler
 CA_NPEAVQObject
@@ -5852,6 +5852,7 @@ ClearClicked
 ClearColor
 ClearComputerCameraMovementModes
 ClearComputerMovementModes
+ClearCurrentLineOnResume
 ClearDefaults
 ClearDepth
 ClearedFoundItems
@@ -6427,7 +6428,6 @@ CmdUpdateBuffer
 CmdWaitEvents
 CmdWriteBufferMarkerAMD
 CmdWriteTimestamp
-CMro4a2sM0mif
 CMS_add0_cert
 CMS_add0_recipient_key
 CMS_add0_recipient_password
@@ -7461,10 +7461,8 @@ CSGv2LodLevel4Count
 CSGv2LodLevel4Percentage
 CSGv2LodMinTriangleCount
 CSGv2LodsToGenerate
-CSGv2NormalSmoothing
 CSGv2OperationInfluxHundredthsPercentage
 CSGv2OperationTiming
-CSGv2SmoothingBetaFeature
 CSGv2SnapPlanes
 CSGv2StatisticsFix
 CSGv2Toggled
@@ -7548,6 +7546,7 @@ CtrlSpineStiffness
 CubeFramebuffer
 CubeMipGen
 CullDistance
+CUNacN2IBOkWTBay5kmtcBnHzr4RlPSTotz0xdPJBOql1YMZDSY3agmN0DZ1W3LJ
 CURL_SSL_BACKEND
 CURL_SSLVERSION
 CURL_SSLVERSION_MAX
@@ -8955,6 +8954,7 @@ DistributionPoints
 DistToShowBufferCountSqr
 DKECCAK1600_ASM
 DlcVersion
+DlehpyKN5Vt
 DListenerAttributes
 DMinMaxDistance
 DnsResolve
@@ -9352,7 +9352,6 @@ EBAPEAVTeam
 EBAPEAVWorkspace
 EbDgxvvfGb
 EBELEVE`EjEtE
-EBEQgqv9DCZlr3pPceQW8E2MqcQv49M
 EC_GROUP_check
 EC_GROUP_check_discriminant
 EC_GROUP_copy
@@ -9740,7 +9739,7 @@ EnablePerfPlaytestId
 EnablePerfPlaytestId2
 EnablePerFrameSampling
 EnablePerfRenderStatsCollection
-EnablePerfStatsCollection2
+EnablePerfStatsCollection3
 EnablePhysicalDraggerScopeSetting
 EnablePhysicalFreeFormDragger
 EnablePIICulling
@@ -9959,6 +9958,7 @@ ESGamePerfMonitorUseRandomSelection
 Estrangelo
 ETCEffortLevel
 EThrottleType
+ETwuKirYrLrouhfTdlWNnBmPOdEi
 EucrosiaUPC
 EulerAnglesXYZ
 EulerAnglesYXZ
@@ -11243,6 +11243,7 @@ GAThrottlingEventThresholdHundredthCat1
 GAThrottlingEventThresholdHundredthCat2
 GAThrottlingEventThresholdHundredthCat3
 GAUsageCounter
+GAWOaPU5zCtZZKpIV8yWbysZXTZEEldjR11mmsFPO9nFfkCAwEAAQ
 GazeSelectionEnabled
 GCDistance
 GCHappened
@@ -12028,7 +12029,6 @@ GfxClustersFull
 GfxClustersFull]
 GfxGuiRefactor
 GfxPartInvalidationBudgetMs
-GgDfcfjUfe
 GGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGG
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGG
@@ -12112,7 +12112,6 @@ GoToPreviousScriptLocation
 GoToScriptLocation
 GoToSourceCodeTB
 GoToVersionFailed
-GOvcqXQae7rvwjg1UVJ6OgenygO8j9PNIyGzarBVvk0tkq5VozQaX6IZkJ5
 GpuVariance
 GrabCursor.png
 GrabRotateCursor
@@ -12604,7 +12603,6 @@ HPEBDPEBDV
 HPEBVQMimeData
 HQEAPEAVQGraphicsItem
 HtmlEscaped
-HTMP5IkFOQs6xc0q4Pd59p34MiyKxjcaN
 Http_Failed
 HTTP429Failure
 HTTP503Failure
@@ -12959,7 +12957,6 @@ IEBAPEAVQTreeWidgetItem
 IEBAXPEAVQStyleOptionComboBox
 IEBAXPEAVQStyleOptionSlider
 IEBAXPEAVQStyleOptionTab
-IEFjYiQ2a8nCcmqC395KxS13f9g0oc8p2ZfFJmi0eOTgObiz
 Ierusalimschy
 IFindListener
 IfLastDocInLastAppInstance
@@ -13738,7 +13735,6 @@ IXPService]
 IXPSystemShutoff
 IXPTestBrowserTrackerLayerName
 IXPTestUserLayerName
-IxYQ5NthZGDZdpL
 J_J_JAEBVPackageHash
 J_Key_dn.png
 J_NW4CurrencyType
@@ -14647,7 +14643,6 @@ LuaDialogCallbackSignal
 LuaDragDropped
 LuaDragEntered
 LuaDragger
-LuaDraggers
 LuaDragLeft
 LuaDragMoved
 LuaDragTool
@@ -14799,7 +14794,6 @@ MarkerItem
 Marketplace
 MarketPlace
 MarketplaceApiClient
-MarketplaceAssetCounterFixSoloUserId
 MarketplaceAssetsAdopted
 MarketplaceService
 MarketPlaceService
@@ -14933,6 +14927,7 @@ MaxVisibleItems
 MaxWaitTimeBeforeForcePacketProcessMS
 MaybeCutout
 MayBeLinkedSourceModified
+MbHdUaAW2oEnXPwqsKQDIsRoLs
 MdiControls
 MDIManagerHost
 MEAA_JPEA_W_J
@@ -15445,7 +15440,7 @@ MigrateTriangleMeshData3
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsI9zRp2OSccqdFx2
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAupANB3EbN9hFHHUj0eA
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjPRQo9jc
-MIICCgKCAgEAqQL
+MIICCgKCAgEA0RB1AyBeurfpLka2I3hwWzGYwQfuvnzPUvV7tCQ5
 Millisecond
 MillisecondsBeforeHandlingReconnect
 MimeDataFromSelection
@@ -15754,7 +15749,6 @@ MSACM32.dll
 MsecBetweenTextureMemoryUsageArrayRefresh
 MSecsSinceEpoch
 MsgWaitForMultipleObjectsEx
-MSkWVRRP5Z6jtdiUdFLqBFHfiEnP5FjMBibud8XkXaFv7ZK4HG6wzCo11DjsqdNf
 MsToScreen
 MSVCP140.dll
 MSWSOCK.dll
@@ -15914,6 +15908,7 @@ NCONF_get_string
 NCONF_load
 NCONF_load_bio
 NCONF_load_fp
+NdgDbNd2nWmiC1EO4LcdU
 NdnuScpeLkclOiiaVruaSilaKgnjRicyLiraCidyLmahCanaLtvaTtsvApygErmaSusiLumaBavaJietMimrAbraSitrPilhPhkrOihtKktaBharBdnaMmkaCcreMoreMdrlPdrhSaroSrkaTzzzZssaBbhgAlpuDablEnarGjohKdniSaniLjhaMinaMdneMidoMoorMtabNbraNmrePgnmHmlaPcuaPplhPddiShriTaraWmohAwulHrtaHtluMgn
 NE9F0uHE9F4uBE9F8u
 NearIntensity
@@ -16198,6 +16193,7 @@ NPCsAction
 NPEAVInstance
 NPEAVQString
 NPEAVQWidget
+NqTT1cOTvfIs4
 NSNNNNNNTNh0ii
 NSNNNNNNTNPVR
 NSNNNNNNTNPVV
@@ -16362,6 +16358,7 @@ OfCreation
 OfDelivery
 OfE9E0uHfE9E
 OffCounters
+OFFh6PnCwlUmZQicsHR02dK37a
 OfficeStyle
 OffMeshConnections
 OffscreenData
@@ -18414,6 +18411,7 @@ PpjEtrThreshold
 PpjPmThreshold
 PPLTaskHandle
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+Pr6SyitOw3ZvHFi5rtt6buTgRV9tGFljUfStcGb7GUUmUo
 Prc.length
 Prc[MouseGraphX]
 PreAnimation
@@ -18762,6 +18760,7 @@ PurchasingEvents
 PureCallError
 PURPOSE_add
 PURPOSE_set
+PuS38oXRA8kLuxzzLRHUC
 PushButtonClicked
 PushButtonLabel
 PushPixels
@@ -20862,7 +20861,6 @@ RigidBodyLazyUpdating
 RigidityEnabled
 RiseVelocity
 Rj0isQcnqX
-RNjAWWZEWmEi
 Roact.createElement
 ROBLOSECURITY
 Roblox.Hybrid
@@ -21088,7 +21086,6 @@ RSA_verify_ASN1_OCTET_STRING
 RSA_verify_PKCS1_PSS_mgf1
 RSAPrivateKey
 RSAPublicKey
-RskdEvoE20TUtrPotN4oci5vAIHcnS9
 RTDynamicCast
 RtlCaptureContext
 RtlCaptureStackBackTrace
@@ -21636,7 +21633,6 @@ SelectionPointLasso
 SelectionRotate
 SelectionSaveAsPlugin
 SelectionSaveToFile
-SelectionServiceAddRemove
 SelectionSphere
 SelectionStart
 SelectionText
@@ -22131,7 +22127,6 @@ ShareToTwitter
 SHCellMinSizeAsBitShift
 SHComputeExtentsTimeReportingAttemptRate
 SHComputeExtentsTimeReportingEnabled
-SHEhPo4jIO0qcjxMypg0rGZLkNi
 SHELL32.dll
 ShellClient
 ShellFeature
@@ -23169,8 +23164,6 @@ Studio.App.BetaFeatures.CloudsPhase1Description
 Studio.App.BetaFeatures.CloudsPhase1Title
 Studio.App.BetaFeatures.ConvertToTerrainDescription
 Studio.App.BetaFeatures.ConvertToTerrainTitle
-Studio.App.BetaFeatures.CSGv2SmoothingDescription
-Studio.App.BetaFeatures.CSGv2SmoothingTitle
 Studio.App.BetaFeatures.Details
 Studio.App.BetaFeatures.EnableLuauTypeCheckingDescription
 Studio.App.BetaFeatures.EnableLuauTypeCheckingTitle
@@ -25037,7 +25030,6 @@ StudioBetaFeaturesHideInfoButtonForLuobuStudio
 StudioBetaFeaturesHideInfoButtonForMissingUrls
 StudioBFRolesetAssetManager
 StudioBFRolesetAvatarLoadingEventOrderingBeta
-StudioBFRolesetCSGv2SmoothingBeta
 StudioBFRolesetEnableLuauTypeChecking
 StudioBFRolesetGameManagement
 StudioBFRolesetLuauNonStrictByDefault
@@ -25047,7 +25039,6 @@ StudioBFRolesetSaveToCloudV2
 StudioBFRolesetSetInstanceDefaults
 StudioBFRolloutPercentAssetManager
 StudioBFRolloutPercentAvatarLoadingEventOrderingBeta
-StudioBFRolloutPercentCSGv2SmoothingBeta
 StudioBFRolloutPercentEnableLuauTypeChecking
 StudioBFRolloutPercentGameManagement
 StudioBFRolloutPercentLuauNonStrictByDefault
@@ -25160,7 +25151,6 @@ StudioEmergencyMessageV3
 StudioEmulatedCountryRegionCode
 StudioEnableAvatarLoadingEventOrderingBeta2
 StudioEnableBFSupportPluginDebugging
-StudioEnableCSGv2SmoothingBeta
 StudioEnableExternalLoginTelemetry
 StudioEnableFindReplaceOverhaulBetaFeature
 StudioEnableLuauNonStrictByDefaultBetaFeature
@@ -25610,7 +25600,6 @@ StudioUpdateSpamIntervalMs
 StudioUpgradedCounter
 StudioUrlAssetManager
 StudioUrlAvatarLoadingBeta
-StudioUrlCSGv2SmoothingBeta
 StudioUrlEnableLuauTypeChecking
 StudioUrlEndpointString
 StudioUrlGameManagement
@@ -25797,6 +25786,7 @@ SwapLayerBuffersMscOML
 SwapToShareWithFriends
 SWATAUAVAW
 SWATAUAVAWH
+SwBjQLBDhv1XukaD4eVVG1fSOtg9mrRVQ93VKVPi0HXlpl28GNGYCZZq
 SwimAnimation
 SwipeDirection
 SWITCH3.mp3
@@ -27229,6 +27219,7 @@ TwistLimitsEnabled
 TwistLowerAngle
 TwistUpperAngle
 TwitterShareUrl
+TWo7GSWnV1CmBTLRn6npG37bbWrnqfnnpE
 TwoStepVerification
 TwoStepVerificationClicked
 TwoStepVerificationCode
@@ -27723,6 +27714,7 @@ Unull_deleter
 UnusedSounds
 UnvalidatedAssetService
 Unverified
+UOlFV2EdRVPtsDt3LqjiqHDKXaap0cD4YZQuKpNrinsBxU05w93Q
 Up_key.png
 Up_key_dn.png
 UPackageAssetData
@@ -27867,7 +27859,6 @@ USATAUAVAW
 USATAUAVAWH
 USATAUAVAWL
 USATAUAVAWWH
-UscApQlmqowltqQjGcmjOHgzGWM
 UScriptContentQuickOpenProviderSharedState
 UScriptPerformanceViewData
 UseAccuratePlaySoloForced
@@ -29043,6 +29034,7 @@ VObjectValue
 VObjectVersionInfo
 VogpHgQ70F57MdFiBApyJwNSBk
 VoiceChatService
+VoiceChatService2
 VoidStoredMemberFunctionPointerCall2
 Vollbeding
 VolumeError
@@ -29502,10 +29494,8 @@ Vwspp_callback_client
 VWSUATAUAVAW
 VWXYZ[\]^_`a
 VXmlElement
-Vy21vh0tVDEL899kbSOzmWI3z5U300QlqSRCX6nsM9iHAuJH5efTkglhiKAlZz
 VYieldFunctions
 VYieldFunctionStateObject
-VymofrXpRArzVHXMz7CCJA4jZNE8SXYNyd4Oad5LQBxHv0CAwEAAQ
 W_Key_dn.png
 WaistAccessory
 WaistBack_Att
@@ -29805,6 +29795,7 @@ WM_ATLGETHOST
 WMCreateProfileManager
 WMCreateSyncReader
 Wmvcore.dll
+WoNsPbVCAHL
 WoodPlanks
 WordBackward
 WorkersNeeded
@@ -29938,7 +29929,6 @@ XboxUseNewValidUsernameCheck2
 XFbxAMatrix
 XFREE86_GLYPH_RANGES
 XGetLastError
-XhUWT6GneQuidNC5pJ1i37eOVOubTtvzYQrfQNVW8MByZqgyMf2VaJaMfiIIVZKP
 XHW4Status_e
 XInputGetBatteryInformation
 XInputGetCapabilities
@@ -29980,7 +29970,6 @@ XQColorDialog
 Xregex_error
 XResolution
 Xtime_get_ticks
-XTtdyoIUJ1W3wDgUbOLNmWhwb
 XUCompletionList
 XUnegotiation_response
 XUNetworkResult
@@ -30073,6 +30062,7 @@ XW4ResultCode
 XW4websocket_close_status
 XW4WebSocketEventType
 XwhvcEikuIaqb7nHhEJ
+XWLvRipS0lH1i2nZF8K
 XXXXXXXXXXXXXXXXuuuuuuuuuuuuuuuuppppppppppppppppppppppp
 XZP8CoreGuiService
 XZP8CRenderSettingsItem
@@ -30127,7 +30117,6 @@ Z_KPEIBX_K_KPEIAU1
 ZAEAPEAV34
 Zcaronsmall
 Zdotaccent
-ZESYWPWcm5mW2vVaPcHXdrtvEjEv
 ZgnhKhWhci
 ZhniZzzzZbarAnmrAgneBlryCaveDroeGkerGrjuGuruGgnaHinaHrbeHariHadnKanaKooaLntaLmylMayrOlmaTuleTiahTtbiTopoBiarBsnaCrehCihtErmhKgnoMrmyMmagOrnuRhniScrySaahTiiiYtrsDhtoGlatIdhuBonaHglgTbgaTtrpCbmiLbniLamsOwahSelaTragUiguBtpoCgalGrahKulaToepXolySgnfTilaBxusXookNga
 ZIndexBehavior
@@ -30141,6 +30130,7 @@ ZoomToHighlight
 ZP6APEAX1PEBX
 ZP6AX1PEAX
 ZPEAVRBXMessageBox
+ZpzO0erHpOQDQr7MQOanANiytoO7V31zPdTAq
 ZRZZZbZt[.[
 ZVLocalTouchedSignal
 ZVspecial_equipped_signal
